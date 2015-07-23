@@ -1,0 +1,14 @@
+﻿Build started 2/3/2014 7:10:38 PM.
+     1>Project "C:\Users\rbchou\Desktop\lab1 (1)\lab1\lab1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt lab1.c
+         lab1.c
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\rbchou\Desktop\lab1 (1)\lab1\Debug\lab1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\rbchou\Desktop\lab1 (1)\lab1\Debug\lab1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\rbchou\Desktop\lab1 (1)\lab1\Debug\lab1.lib" /MACHINE:X86 "Debug\lab1-tests.obj"
+         Debug\lab1.obj
+         lab1.vcxproj -> C:\Users\rbchou\Desktop\lab1 (1)\lab1\Debug\lab1.exe
+     1>Done Building Project "C:\Users\rbchou\Desktop\lab1 (1)\lab1\lab1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63

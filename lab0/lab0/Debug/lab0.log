@@ -1,0 +1,16 @@
+﻿Build started 1/14/2014 10:39:41 AM.
+     1>Project "C:\Users\FordT1\Desktop\lab0\lab0\lab0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "..\lab0-testing.c"
+         lab0-testing.c
+     1>c:\users\fordt1\desktop\lab0\lab0-testing.c(39): warning C4013: 'malloc' undefined; assuming extern returning int
+     1>c:\users\fordt1\desktop\lab0\lab0-testing.c(42): warning C4013: 'free' undefined; assuming extern returning int
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\FordT1\Desktop\lab0\Debug\lab0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\FordT1\Desktop\lab0\Debug\lab0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\FordT1\Desktop\lab0\Debug\lab0.lib" /MACHINE:X86 "Debug\lab0-testing.obj"
+         Debug\lab0.obj
+         lab0.vcxproj -> C:\Users\FordT1\Desktop\lab0\Debug\lab0.exe
+     1>Done Building Project "C:\Users\FordT1\Desktop\lab0\lab0\lab0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79
